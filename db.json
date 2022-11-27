@@ -1,0 +1,42 @@
+{
+    "product":[
+        {
+            "id":1,
+            "name":"samsung pro",
+            "color":"black",
+            "price":10000,
+            "category":"mobile",
+            "brand":"samsung",
+            "photo":"https://img.icons8.com/emoji/48/null/mobile-phone.png"
+
+
+        },{
+            "id":2,
+            "name":"iphone pro",
+            "color":"white",
+            "price":50000,
+            "category":"mobile",
+            "brand":"iphone",
+            "photo":"https://img.icons8.com/fluency/48/null/iphone13.png"
+
+        },{
+             "id":3,
+            "name":"tshirt",
+            "color":"red",
+            "price":6000,
+            "category":"clothes",
+            "brand":"nike",
+            "photo":"https://img.icons8.com/arcade/64/000000/t-shirt.png"
+
+        },{
+            "id":4,
+            "name":"sports shoes",
+            "color":"red &black",
+            "price":8000,
+            "category":"shoes",
+            "brand":"nike",
+            "photo":"https://img.icons8.com/external-photo3ideastudio-gradient-photo3ideastudio/64/null/external-shoes-travel-checklist-photo3ideastudio-gradient-photo3ideastudio.png"
+
+        }
+    ]
+}
